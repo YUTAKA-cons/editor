@@ -1,3 +1,4 @@
+<pre>
 .
 ├── agents
 │   ├── code-reviewer.md
@@ -31,5 +32,5 @@
         ├── promotion_planning.md
         ├── roadmap_design.md
         └── skill_gap_analysis.md
+</pre>
 
-12 directories, 21 files
