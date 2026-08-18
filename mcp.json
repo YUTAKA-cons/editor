@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "yfinance": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@onori/yfinance-mcp-server"
+            ]
+        }
+    }
+}

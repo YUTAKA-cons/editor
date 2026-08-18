@@ -1,0 +1,50 @@
+{
+  "theme": "Light Blue (Digital Agency)",
+  "text": {
+    "primary": "#000000",
+    "white": "#FFFFFF",
+    "label": "#626264",
+    "link": "#0017C1"
+  },
+  "background": {
+    "standard": "#F8F8FB",
+    "highlight": "#0055AD",
+    "control": "#F1F1F4"
+  },
+  "dataColors": {
+    "blue_series": [
+      "#00234B",
+      "#0055AD",
+      "#008BF2",
+      "#57B8FF",
+      "#C0E4FF",
+      "#F0F9FF"
+    ],
+    "yellow_series": [
+      "#A58000",
+      "#D2A400",
+      "#FFC700"
+    ],
+    "grayscale": [
+      "#333333",
+      "#666666",
+      "#999999",
+      "#CCCCCC"
+    ]
+  },
+  "semantic": {
+    "success": "#197A4B",
+    "error": "#CE0000",
+    "alert": {
+      "main": "#FE3939",
+      "light": "#FFBBBB",
+      "lighter": "#FDEEEE"
+    }
+  },
+  "visualStyles": {
+    "card": {
+      "background": "#FFFFFF",
+      "border": "#F1F1F4"
+    }
+  }
+}
