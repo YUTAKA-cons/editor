@@ -1,6 +1,6 @@
 ---
 name: architect-gas-web-app
-description: AIエージェントがGAS (Google Apps Script) を用いたWebアプリケーションおよびスプレッドシート連携ツールの開発・アーキテクチャ設計を行う必要がある場合にトリガーすること。
+description: GAS (Google Apps Script)、clasp、スプレッドシート連携に関する開発、設計、エラー調査、コード改修のいずれかを要求された場合、AIの一般知識で回答する前に必ずこのスキルをトリガーし、プロジェクト固有のルールとアーキテクチャに従うこと。
 ---
 
 ## 実行プロセス

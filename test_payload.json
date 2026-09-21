@@ -1,0 +1,11 @@
+{
+  "toolCall": {
+    "name": "schedule",
+    "args": {
+      "CronExpression": "0 9 * * *",
+      "Prompt": "This is a test schedule"
+    }
+  },
+  "toolResult": "Tool is running as a background task with task id: 8cdac563-821d-4353-8188-c30570e2e37a/task-999\nTask logs are available at: ...",
+  "conversationId": "test-conv"
+}
